@@ -14,7 +14,7 @@ app.add_middleware(
 )
 
 # Include the Auth Router
-app.include_router(auth_router, prefix="/auth", tags=["Authentication"])
+app.include_router(auth_router, prefix="/auth", tags=["🔐 Authentication"])
 
 @app.get("/")
 def read_root():
