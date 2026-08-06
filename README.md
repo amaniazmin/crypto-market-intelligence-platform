@@ -14,9 +14,7 @@
 
 Live Demo: https://crypto-market-intelligence-platform-final.onrender.com/
 
-API Docs: https://crypto-market-intelligence-platform.onrender.com/docs
-
-GitHub: https://github.com/amaniazmin/crypto-market-intelligence-platform
+API Docs: https://crypto-api-backend-pc57.onrender.com/docs
 
 ---
 
